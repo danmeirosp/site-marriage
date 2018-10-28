@@ -1,2 +1,2 @@
 # site-marriage
-wedding website held in web programming class
+wedding site held in a web programming class with teacher Diogo Cezar
